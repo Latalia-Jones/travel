@@ -47,7 +47,7 @@
   height: 60px;
   background: url(images/list.png);
   background-repeat: no-repeat;
-  background-size: 40px;
+  background-size: 30px;
   background-position: center;
   cursor: pointer;
 }
@@ -55,7 +55,7 @@
 .toggle.active {
   background: url(images/cross.png);
   background-repeat: no-repeat;
-  background-size: 40px;
+  background-size: 30px;
   background-position: center;
 }
 
