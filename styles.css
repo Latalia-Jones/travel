@@ -82,7 +82,7 @@
 
 .text h3 {
   font-size: 4em;
-  font-weight: 700;
+  font-weight: 700 bold;
   line-height: 1.5;
   text-transform: uppercase;
 }
